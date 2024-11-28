@@ -10,7 +10,6 @@ Fullstack open source blogging application made with MongoDB, Express, React & N
       - [Backend](#backend)
       - [Database](#database)
   * [📸 Screenshots](#screenshots)
-  * [Author](#author)
   * [License](#license)
 
 
@@ -137,12 +136,7 @@ This project was created using the following technologies.
 --- - 
 ![11](https://user-images.githubusercontent.com/111676859/226197338-3e530bc6-e7bf-4e4a-9284-165f85be47d2.png)
 
-## Author
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [berthutapea](https://github.com/berthutapea)
-- Sponsor: [berthutapea](https://saweria.co/berthutapea)
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
+
 
 ## License
 
